@@ -46,7 +46,7 @@ If you found a bug, please use the [issue tracker][issue-tracker].
 
 ## Citation
 
-> t.b.a
+> https://github.com/pinellolab/perturbvelo
 
 [issue-tracker]: https://github.com/pinellolab/perturbvelo/issues
 [changelog]: https://perturbvelo.readthedocs.io/latest/changelog.html
